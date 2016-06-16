@@ -1,0 +1,5 @@
+c:\users\i5\documents\visual studio 2015\Projects\SoftUniDemos\Square of Stars\bin\Debug\Square of Stars.exe.config
+c:\users\i5\documents\visual studio 2015\Projects\SoftUniDemos\Square of Stars\bin\Debug\Square of Stars.exe
+c:\users\i5\documents\visual studio 2015\Projects\SoftUniDemos\Square of Stars\bin\Debug\Square of Stars.pdb
+c:\users\i5\documents\visual studio 2015\Projects\SoftUniDemos\Square of Stars\obj\Debug\Square of Stars.exe
+c:\users\i5\documents\visual studio 2015\Projects\SoftUniDemos\Square of Stars\obj\Debug\Square of Stars.pdb
